@@ -1,9 +1,9 @@
 # Flare Node Install Script
 Flare Networks Node Installation Tools
 
-This script will prepare your Ubuntu environment for the official Flare Networks node [^1].
+This script will prepare your Ubuntu environment for the official Flare Networks node.
 
-[^1]: Official Flare Networks Node Git Repo can be found here: https://gitlab.com/flarenetwork/flare
+**Note:** Official Flare Networks Node Git Repo can be found here: https://gitlab.com/flarenetwork/flare
 
 **Requirements:**
  - Hardware per Flare node: 64-bit architecture, 2 GHz or faster CPU, 4 GB RAM, 20 GB hard disk.
