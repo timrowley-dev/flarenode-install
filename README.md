@@ -20,7 +20,7 @@ Update Bash Profile with Envrionment Variables\
 `echo 'export XRP_APIs="https://xrpl.flare.network:443,https://xrpl-1.flare.network:443,https://xrplcluster.com"' >> ~/.profile`
 
 Source Bash Profile\
-`source ~/.profile`\
+`source ~/.profile`
 
 Install NodeJS\
 `curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -`
