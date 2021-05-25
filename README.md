@@ -1,10 +1,24 @@
 # flarenode-install
 Flare Networks Node Installation Tools
 
+**To use the script:**
+
 Download install script\
 `wget http://cdn.ftso.com.au/public/flarenode/install-latest.sh`
 
-The script runs the following commands:
+Set Script Permissions\
+`sudo chmod +x install-latest.sh`
+
+Run The Script Using Sudo\
+`sudo bash install-latest.sh`
+
+All packages will install and allow you to run the `/.coston` script within the Flare folder. 
+
+Don't forget to run `source ~/.profile` after running the install script and before starting your Flare Node.
+
+---------------------------------------
+
+The script runs the following commands for you:
 
 Update Apt-get \
 `apt-get update`
