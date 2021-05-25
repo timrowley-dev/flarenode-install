@@ -1,7 +1,7 @@
 # Flare Node Install Script
 Flare Networks Node Installation Tools
 
-This script will prepare your Ubuntu environment for the official Flare Networks node[^1].
+This script will prepare your Ubuntu environment for the official Flare Networks node [^1].
 
 [^1]: Official Flare Networks Node Git Repo can be found here: https://gitlab.com/flarenetwork/flare
 
