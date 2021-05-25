@@ -7,7 +7,7 @@ This script will prepare your Ubuntu environment for the official Flare Networks
 
 **Requirements:**
  - Hardware per Flare node: 64-bit architecture, 2 GHz or faster CPU, 4 GB RAM, 20 GB hard disk.
- - OS: Ubuntu >= 18.04.
+ - OS: Ubuntu >= 18.04 (install script tested on Ubuntu 20.04.2).
 
 **To use the script:**
 
