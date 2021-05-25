@@ -72,6 +72,9 @@ Start Coston\
 
 # Postman
 
+Download Postman\
+https://www.postman.com/downloads/
+
 **Collection**\
 https://raw.githubusercontent.com/ava-labs/avalanche-postman-collection/master/Avalanche.postman_collection.json
 
