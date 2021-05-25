@@ -20,7 +20,7 @@ Set Script Permissions\
 Run The Script Using Sudo\
 `sudo bash install-latest.sh`
 
-All packages will install and allow you to run the `/.coston` script within the Flare folder. 
+All packages will install and allow you to run the `./coston` script within the Flare folder. 
 
 Don't forget to run `source ~/.profile` after running the install script and before starting your Flare Node.
 
